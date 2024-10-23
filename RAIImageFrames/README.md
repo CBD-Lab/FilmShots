@@ -21,6 +21,8 @@ Where:
   - `RAI-1-1.png` represents the first 5 minutes of video `1`.
   - `RAI-1-2.png` represents the 5 to 10 minutes of video `1`.
 
+Each RAI video corresponds to a `RAI-<video_number>.txt` file that contains shot labels, recording the start and end frames of each shot.
+
 ## Frame Image Source
 
 These frame images are extracted from videos in the RAI dataset. The RAI dataset is available from the following website:
